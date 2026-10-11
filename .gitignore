@@ -1,0 +1,9 @@
+# local helper server cache (subtitle conversions)
+.cache/
+__pycache__/
+*.pyc
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
